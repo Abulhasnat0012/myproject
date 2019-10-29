@@ -1,1 +1,2 @@
-thia is my first github class
+thia is my first .
+this is a good class
